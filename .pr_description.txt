@@ -1,0 +1,5 @@
+Add README for OctoAcme project management docs
+
+This PR adds docs/README.md to centralize OctoAcme project management process documents and provide a brief overview of the processes, roles, communication cadence, and quality practices.
+
+Closes #2
